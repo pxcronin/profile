@@ -92,11 +92,14 @@ a:hover {
   margin-top: 20px;
   padding: 15px 20px;
   border-radius: 4px;
-  display: block;
 }
 
 .btn-purple:hover {
   background-color: darkgreen;
   color: white;
   transition: 0.7s;
+}
+
+#introduction p {
+  margin-bottom: 40px;
 }
