@@ -68,3 +68,11 @@ a:hover {
 .list-inline i {
   font-size: 60px;
 }
+
+.link {
+  background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+  color: #636363;
+  font-weight: lighter;
+  font-size: 25px;
+  font-style: italic;
+}
