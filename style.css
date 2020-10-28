@@ -27,6 +27,15 @@ h3 {
   line-height: 16px;
 }
 
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+
 a {
   color: royalblue;
   text-decoration: none;
@@ -80,12 +89,12 @@ a:hover {
 .btn-purple {
   background-color: rebeccapurple;
   color: white;
-  margin: 20px;
   padding: 15px 20px;
   border-radius: 4px;
 }
 
 .btn-purple:hover {
   background-color: darkgreen;
+  color: white;
   transition: 0.7s;
 }
